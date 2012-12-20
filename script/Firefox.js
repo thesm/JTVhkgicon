@@ -363,7 +363,7 @@ function chat_moderator()
 				if(info.nickname=="dayofans"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/dayofans.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="hkgfivepo00"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/locerbee.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="wellmenjai"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/wellmenjai.png' style='vertical-align:middle; margin-top:-3px;'>"; }
-				if(info.nickname=="iloveavengedse7enfold"){ info.nickname="<img src='https://jtvhkgicon.googlecode.com/svn/resources/7fold.png' style='vertical-align:middle; margin-top:-3px;'>"; }
+				if(info.nickname=="iloveavengedse7enfold"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/7fold.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="cl2007"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/cl2007.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="hkgjedi"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/jedi.gif' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="hkg__whatthe"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/whatthe.png' style='vertical-align:middle; margin-top:-3px;'>"; }
@@ -390,9 +390,9 @@ function chat_moderator()
 													if(info.tagtype =="mod")
 													{
 														info.tagtype=null;
-														info.nickname="<span title='TNT' style='padding: 1px 3px;color: white;font-size: 0.8572em;font-weight: bold;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-radius: 2px;background-color: #e909a8;'>TNT</span>&nbsp;<img src='https://jtvhkgicon.googlecode.com/svn/resources/ching.png' style='vertical-align:middle; margin-top:-3px;'>";
+														info.nickname="<span title='TNT' style='padding: 1px 3px;color: white;font-size: 0.8572em;font-weight: bold;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-radius: 2px;background-color: #e909a8;'>TNT</span>&nbsp;<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/ching.png' style='vertical-align:middle; margin-top:-3px;'>";
 													}else{
-														info.nickname="<img src='https://jtvhkgicon.googlecode.com/svn/resources/ching.png' style='vertical-align:middle; margin-top:-3px;'>";
+														info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/ching.png' style='vertical-align:middle; margin-top:-3px;'>";
 														}
 													}
 				if(info.nickname=="fayefayefaye"){
@@ -669,7 +669,7 @@ message=replaceAll(message,"[ragepose]","<img src='https://raw.github.com/kIsSkI
 message=replaceAll(message,"[morepics]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/morepics.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[gaaaaaayyy]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/gay.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bye369]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/bye369.gif' height=15 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[peanuts369]","<img src='https://jtvhkgicon.googlecode.com/svn/resources/peanuts369.gif' height=28 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[peanuts369]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/peanuts369.gif' height=28 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[okay]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/okay.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[killmeplease]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/killmeplease.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[ynotwtithink]","<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/mama.jpg' height=50 style='vertical-align:bottom;'>");
@@ -1020,7 +1020,7 @@ function icon()
           <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/killmeplease.png' onclick='javascript:InsertText(\"[killmeplease]\",false);' height=32>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/mama.jpg' onclick='javascript:InsertText(\"[ynotwtithink]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img style='cursor:pointer; vertical-align:middle;' src='https://jtvhkgicon.googlecode.com/svn/resources/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
+		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/illusiononly.gif' onclick='javascript:InsertText(\"[illusiononly]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/heiscrazy.png' onclick='javascript:InsertText(\"[heiscrazy]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
@@ -1385,7 +1385,7 @@ function icon()
           <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/killmeplease.png' onclick='javascript:InsertText(\"[killmeplease]\",false);' height=32>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/mama.jpg' onclick='javascript:InsertText(\"[ynotwtithink]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img style='cursor:pointer; vertical-align:middle;' src='https://jtvhkgicon.googlecode.com/svn/resources/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
+		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/illusiononly.gif' onclick='javascript:InsertText(\"[illusiononly]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/heiscrazy.png' onclick='javascript:InsertText(\"[heiscrazy]\",false);' height=32>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
