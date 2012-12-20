@@ -1,6 +1,6 @@
  // ==UserScript==
 // @author 		   Pikachu
-// @name           JTV hkgicon
+// @name           JTVhkgicon
 // @version 	   3.5
 // @description    hkgicon@JTV
 // @namespace      https://github.com/kIsSkIt17/JTVhkgicon
