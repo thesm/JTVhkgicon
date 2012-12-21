@@ -378,6 +378,9 @@ function chat_moderator()
 				if(info.nickname=="macneverdie"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/mac.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="dicksonmother"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/dickson.png' style='vertical-align:middle; margin-top:-3px;'>"; }
 				if(info.nickname=="siuming000"){
+				if(info.nickname=="thesm01"){ info.nickname="<img src='https://raw.github.com/kIsSkIt17/JTVhkgicon/master/resources/dickson.png' style='vertical-align:middle; margin-top:-3px;'>"; }
+				if(info.nickname=="siuming000"){	
+			
 													if(info.tagtype =="mod")
 													{
 														info.tagtype=null;
